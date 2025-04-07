@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-kit-react-native-repub",
-  "version": "6.0.6",
+  "version": "6.0.7",
   "private": false,
   "description": "FFmpeg Kit for React Native",
   "main": "src/index",
